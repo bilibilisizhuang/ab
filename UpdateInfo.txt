@@ -1,0 +1,9 @@
+{
+"hasJingPin":"true",
+
+"hasZhiZhen":"true",
+"hasPuTong":"true",
+"isUpdateKey":"false",
+"key":""
+
+}
